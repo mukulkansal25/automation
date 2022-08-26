@@ -1,3 +1,4 @@
 
-sh ‘echo HelloWorld’
+
+console.log("Success")
 
